@@ -50,7 +50,7 @@ ul {
 }
 
 #showcase {
-    background: url(img/hello.jpg);
+    background: url("../img/hello.jpg");
     height: 645px;
 }
 
